@@ -1,0 +1,5 @@
+COMANDOS GIT
+
+REMOÇÃO
+git add -u
+git commit -m "Removed some files"
